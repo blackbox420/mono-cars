@@ -17,6 +17,15 @@
 - Edit screens
 - Pagination
 
+
+## Clone Repo
+
+```
+git clone https://github.com/blackbox420/mono-cars.git
+cd mono-cars
+npm install
+```
+
 ## Screenshots
 
 Homepage:
