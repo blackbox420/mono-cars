@@ -1,5 +1,3 @@
-# Mono Cars - Simple APP with React, Firebase and Mobx.
-
 ## Link to view:
 [Live Demo Link](https://mono-vehicles-51aa5.web.app/) :point_left:
 
