@@ -5,27 +5,25 @@
 
 ## Technologies used:
 - React
-- Mobx - State management
-- Firebase
-- Material UI [https://material-ui.com/]
-- Formik [https://formik.org/]
+- Mobx
+- Firebase 
+- Material UI
+- Formik
 
 ## Present functionality:
-- Filter
+- Filtering functionality
 - Sorting
-- Add Cars
-- Edit Cars
+- Paging 
+- Edit screens
 - Pagination
 
-## Скриншоты
+## Screenshots
 
 Homepage:
 ![screenshot](https://i.ibb.co/c1p5ZHM/Screenshot-1.jpg)
 
 Filtering by brand:
 ![screenshot](https://i.ibb.co/qgyjYWL/Screenshot-2.jpg)
-
-https://i.ibb.co/PZ53gzs/Screenshot-3.jpg
 
 Add new car:
 ![screenshot](https://i.ibb.co/PZ53gzs/Screenshot-3.jpg)
